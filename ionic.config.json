@@ -1,0 +1,7 @@
+{
+  "name": "exampleIonic5CordovaPluginFCM",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
